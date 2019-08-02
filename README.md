@@ -26,25 +26,25 @@
 ## __Section I - League Governence__ ##
 
 ### League Commissioner ###
-__Eli Manning__
-> (800) 588-2300
+__Dr. Daniel J.Jones__
+> Murica
 
-> 3LI@ManningFace.com
+> dannyjffb@yahoo.com
 
 <br>
 
 ### Co-Commissioners ###
-__Odell Beckham Jr.__
-> (877) 393-4448
+__Title TBC__
+> TBC
 
-> OBJesus@onehandcatches.com 
+> TBC
 
 <br>
 
-__Saquan Barkley__
-> (800) 605-3369
+__Title TBC__
+> TBC
 
-> TheQuadfather@demthighs.com
+> TBC
 
 <br>
 
@@ -89,8 +89,6 @@ If a team does not pay their dues by the designated date they are not eligible t
 - 2nd Place: $75 (12.5%)
 - 3rd Place: $50 (8.34%)
 
-Additionally $25 (4.16%) will be rolled over each year into a side pot that will be awarded to the first team to win back to back championships.
-
 <br><br>
 
 ## __Section IV - Rosters__ ##
@@ -102,11 +100,9 @@ Additionally $25 (4.16%) will be rolled over each year into a side pot that will
    RB | 2 | No Limit
    WR | 3 | No Limit
    TE | 1 | No Limit
-   FLEX (RB/WR/TE) | 2 | No Limit
+   FLEX (RB/WR/TE) | 1 | No Limit
    D/ST | 1 | No Limit
    K | 1 | No Limit
-   BE | 16 | No Limit
-   IR | 3 | No Limit
 
 <br><br>
 
@@ -114,29 +110,19 @@ Additionally $25 (4.16%) will be rolled over each year into a side pot that will
 
 ### Free Agency ###
 
-- Each team will receive $100 for a Free Agency Aquisition Budget
-- Minimum bid to get a FA off waivers is $1
-- Per transaction fee is $0
-- FAAB dollars are not tradeable
+- Free Agency will be based on Waiver Wire Priority
+- The team that has won the championship will have Waiver Wire Priority 1 when the season starts
+- Each teams Waiver Wire Priorty position will be the inverse of their season ending position
 - There is a two Day waiting period for waivers to clear
-- Free agency locks a week after the championship ends.
+- Free agency locks a directly after the championship ends.
 
 
 ### Trades ###
-- Trades will be processed right away, if collusion is suspected the matter will be put to a vote.
+- Trades will be processed after 2 days, if collusion is suspected the matter will be put to a vote.
 - During the offseason trading is still allowed.
 - Trade deadline begins as soon as the first playoff game starts.
-- Draft picks up to 3 years in the future are tradable.
+- Draft picks up to 2 years in the future are tradable.
 - Teams must pay dues for any year they trade draft picks in.
-
-<br><br>
-
-## __Section VI - Startup Draft__ ##
-- Will take place (Insert Date Here) on (Insert Platform Here).
-- Snake format (1st to 12th then 12th to 1st).
-- Each day the draft will last from 9AM to 9PM with each team having 1 hour per pick.
-- Trading draft picks is allowed during the startup draft.
-- If a team misses their pick the best available player based on [these rankings](https://www.fantasypros.com/nfl/rankings/dynasty-overall.php) will be taken for them.
 
 <br><br>
 
@@ -144,15 +130,13 @@ Additionally $25 (4.16%) will be rolled over each year into a side pot that will
 
 ### Rookie Draft Order ###
 - The draft order for the rookie draft will be determined based on both regular and post-season results
-- Picks 1-6 will be assigned in inverse order of the regular season standings.
-- Picks 7-12 will be assigned in inverse order of the postseason standings
-- An additional pick (1.13) will be awarded to the winner of the consolation bracket
+- Picks 1-8 will be assigned in inverse order of the regular season standings.
+- Picks 9-12 will be assigned based on best potential points
 
 ### Rookie Draft Settings ###
-- There will be 4 rounds of the rookie draft.
-- The rookie draft will take place the day immediately following the completion of the NFL draft.
+- There will be no limits to the rounds of the rookie draft.
+- The rookie draft will take place once consensus agreement is acheieved between the majoriyty of league participants.
 - The draft will follow a linear format just like the NFL draft (1.01 has 2.01, 3.01, 4.01 etc.)
-- Each day the draft will last from 9AM to 9PM with each team having 30 mins per pick.
 - Trading draft picks is allowed during the rookie draft
 - If a team misses their pick the best available player based on [these rankings](https://www.fantasypros.com/nfl/rankings/rookies.php) will be taken for them
 
@@ -164,14 +148,12 @@ __Any undrafted rookie will be treated as a common FA. If they are unavailable i
 
 ### Divisions ###
 
-- There will be four divisions that teams will be randomly assigned to upon joining the league.
-- Divisions will follow NFL division naming (North, South, East, West)
+- There will be 3 divisions that teams will be randomly assigned to by Yahoo
 - Divisions will not have any bearing on playoffs and winning a division only entitles the winner to a virtual badge and bragging rights
 
 ### Regular Season Schedule ###
-- The regular season lasts from week 1 to week 13.
-- Teams will play their first and last two matches against the other teams in their division.
-- The rest of the matches will be randomly determined at the beginning of the season.
+- The regular season lasts from week 1 to week 14.
+- Game schedueles will be generated by Yahoo
 - Playoffs begin week 14 with the championship game occuring week 16.
 
 <br><br>
@@ -179,13 +161,12 @@ __Any undrafted rookie will be treated as a common FA. If they are unavailable i
 ## __Section IX - Playoffs__ ##
 
 ### Championship Bracket ###
-- The two teams with the best regular season records will be assigned to the top two seeds.
-- The next three teams will be assigned their playoff seeding spot based on regular season record.
+- The top three teams from each division will be assigned their playoff seeding spot based on regular season record.
 - The final playoff spot will be awarded to the team with the highest points scored out of the remaining teams.
 
 ### Consolation Bracket ###
-- Seeding will be determined by end of regular season standing for the 6 teams not in the Championship Bracket.
-- The winner of the consolation ladder will be awarded an extra pick at the end of the first round (1.13).
+- Seeding will be determined by end of regular season standing for the 4 teams not in the Championship Bracket.
+- The winner of the consolation ladder will be awarded an extra pick at the end of the third round
 - The consolation bracket has no bearing on draft order.
 
 <br><br>
@@ -196,17 +177,17 @@ __Any undrafted rookie will be treated as a common FA. If they are unavailable i
     <tr>
     <td>Passing</td>
     <td>Passing Yards (PY)<br>Interception Thrown (INT)<br>TD Pass (PTD)<br>2 Point Conversion (2PC)</td>
-    <td>.04<br>-2<br>6<br>2</td>
+    <td>25 yards per point<br>-1<br>4<br>2</td>
     </tr>
      <tr>
         <td>Rushing</td>
         <td>Rushing Yards (RY)<br>Rushing TD (RTD)<br>2 Point Conversion (2PR)</td>
-        <td>0.1<br>6<br>2</td>
+        <td>1 point per 10 yards<br>6<br>2</td>
       </tr>
       <tr>
         <td>Receiving</td>
         <td>Receiving Yards (REY)<br>Receiving TD (RETD)<br>2 Point Conversion (2PRE)<br>Each Reception (REC)</td>
-        <td>0.1<br>6<br>2<br>1</td>
+        <td>1 point per 10 yards<br>6<br>2<br>1</td>
       </tr>
       <tr>
         <td>Miscellaneous </td>
@@ -216,7 +197,7 @@ __Any undrafted rookie will be treated as a common FA. If they are unavailable i
       <tr>
         <td>Kicking</td>
         <td>Each Extra Point Made (PAT)<br>Each Field Goal Made (0-39 Yard) (FG0)<br>Each Field Goal Made (40-49 Yard) (FG40)<br>Each Field Goal Made (50+)(FG50)<br>Field Goal Missed (FGM)</td>
-        <td>1<br>3<br>4<br>5<br>-1</td>
+        <td>1<br>3<br>4<br>5<br>0</td>
       </tr>
     </table>
 
