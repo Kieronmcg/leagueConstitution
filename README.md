@@ -27,7 +27,6 @@
 
 ### League Commissioner ###
 __Dr. Daniel J.Jones__
-> Murica
 
 > dannyjffb@yahoo.com
 
@@ -88,6 +87,7 @@ If a team does not pay their dues by the designated date they are not eligible t
 - 1st Place: $450 (75%)
 - 2nd Place: $75 (12.5%)
 - 3rd Place: $50 (8.34%)
+TBC
 
 <br><br>
 
@@ -114,7 +114,7 @@ If a team does not pay their dues by the designated date they are not eligible t
 - The team that has won the championship will have Waiver Wire Priority 1 when the season starts
 - Each teams Waiver Wire Priorty position will be the inverse of their season ending position
 - There is a two Day waiting period for waivers to clear
-- Free agency locks a directly after the championship ends.
+- Free agency locks directly after the final championship game ends.
 
 
 ### Trades ###
